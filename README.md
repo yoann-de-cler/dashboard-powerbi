@@ -17,8 +17,8 @@ Suivre l’avancement et la performance des projets à travers des KPI décision
 
 ## Dashboard Power BI
 Le dashboard est disponible sous 2 formats :
-*Dashboard Power BI (PDF)*
-*Dashboard Power BI (pbix)*
+- *Dashboard Power BI (PDF)*
+- *Dashboard Power BI (pbix)*
 
 ---
 
