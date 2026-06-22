@@ -16,7 +16,9 @@ Suivre l’avancement et la performance des projets à travers des KPI décision
 ---
 
 ## Dashboard Power BI
-Le dashboard est disponible dans le fichier joint : *Dashboard Power BI (PDF)*
+Le dashboard est disponible sous 2 formats :
+*Dashboard Power BI (PDF)*
+*Dashboard Power BI (pbix)*
 
 ---
 
@@ -27,7 +29,7 @@ Le dashboard est disponible dans le fichier joint : *Dashboard Power BI (PDF)*
 ---
 
 ## Résultats
-- Recommandation startégique
+- Recommandation stratégique
 - Vu à l'échelle des différentes hiérarchie
 - Filtrable sur tous les éléments des projets (date, type, pays, région, phase...)
 
